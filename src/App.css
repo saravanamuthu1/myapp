@@ -3,3 +3,9 @@ body{
   padding: 0px;
   box-sizing: border-box;
 }
+footer {
+  position:fixed;
+  left:0;
+  bottom:0;
+  right:0;
+}

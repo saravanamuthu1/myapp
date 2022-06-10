@@ -27,6 +27,11 @@ function App() {
           <Route exact path="/Publications" element={<Publications />}> </Route>
           <Route  element={<Error />}> </Route>
       </Routes>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <Footerfunc />
     </>
   );
 }
