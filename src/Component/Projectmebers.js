@@ -8,6 +8,9 @@ function Projectmembers(){
     return(
     <div>
     <Container>
+        <h1>Project Members</h1>
+    </Container>
+    <Container>
         <Row>
         <Col>
         <Cardfucntiontemp title = "Faculty" name ="Abraham Matta" position ="Lead Project Investigator " college= "Boston University"/>
